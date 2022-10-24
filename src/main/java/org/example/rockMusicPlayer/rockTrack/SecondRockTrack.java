@@ -1,6 +1,4 @@
-package org.example.classicMusicPlayer.rockTrack;
-
-import org.springframework.stereotype.Component;
+package org.example.rockMusicPlayer.rockTrack;
 
 
 public class SecondRockTrack implements RockTrack{

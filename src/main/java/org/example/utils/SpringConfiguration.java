@@ -1,11 +1,11 @@
 package org.example.utils;
 
-import org.example.classicMusicPlayer.RockPlayer;
-import org.example.classicMusicPlayer.rockTrack.FirstRockTrack;
-import org.example.classicMusicPlayer.rockTrack.SecondRockTrack;
-import org.example.rockMusicPlayer.ClassicPlayer;
-import org.example.rockMusicPlayer.classicTrack.FirstClassicTrack;
-import org.example.rockMusicPlayer.classicTrack.SecondClassicTrack;
+import org.example.rockMusicPlayer.RockPlayer;
+import org.example.rockMusicPlayer.rockTrack.FirstRockTrack;
+import org.example.rockMusicPlayer.rockTrack.SecondRockTrack;
+import org.example.classicMusicPlayer.ClassicPlayer;
+import org.example.classicMusicPlayer.classicTrack.FirstClassicTrack;
+import org.example.classicMusicPlayer.classicTrack.SecondClassicTrack;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,7 +1,7 @@
 package org.example;
 
-import org.example.classicMusicPlayer.RockPlayer;
-import org.example.rockMusicPlayer.ClassicPlayer;
+import org.example.rockMusicPlayer.RockPlayer;
+import org.example.classicMusicPlayer.ClassicPlayer;
 import org.example.utils.SpringConfiguration;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

@@ -1,8 +1,8 @@
-package org.example.classicMusicPlayer;
+package org.example.rockMusicPlayer;
 
-import org.example.classicMusicPlayer.rockTrack.FirstRockTrack;
-import org.example.classicMusicPlayer.rockTrack.RockTrack;
-import org.example.classicMusicPlayer.rockTrack.SecondRockTrack;
+import org.example.rockMusicPlayer.rockTrack.FirstRockTrack;
+import org.example.rockMusicPlayer.rockTrack.RockTrack;
+import org.example.rockMusicPlayer.rockTrack.SecondRockTrack;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import java.util.ArrayList;
